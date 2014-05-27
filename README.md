@@ -1,7 +1,7 @@
-patagonia-adventures
-====================
+Patagonia adventures Website
+============================
 
-Tumblr website code for http://patagonia-adventures.tumblr.com/
+Tumblr website for http://patagonia-adventures.tumblr.com/
 
-
-THEME ADAPTED FROM: http://www.tumblr.com/theme/37253
+Theme customized based on
+http://www.tumblr.com/theme/37253
